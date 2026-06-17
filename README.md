@@ -21,17 +21,7 @@ This project demonstrates how Wazuh and Sysmon can be used to detect DLL injecti
 
 ## Architecture
 
-Attacker / Victim Machine (Windows)
-↓
-InjectProc.exe + hello-world-x64.dll
-↓
-Sysmon Event Logs
-↓
-Wazuh Agent
-↓
-Wazuh Manager
-↓
-Wazuh Dashboard Alert
+Attacker / Victim Machine (Windows) -> InjectProc.exe + hello-world-x64.dll -> Sysmon Event Logs -> Wazuh Agent -> Wazuh Manager -> Wazuh Dashboard Alert
 
 ## Prerequisites
 
