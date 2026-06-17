@@ -55,3 +55,27 @@ The InjectProc tool and payload (`hello-world-x64.dll`) were downloaded and plac
 
 📁 Directory structure:
 
+C:\Users\fazleh\Downloads\DLLInjection\InjectProc.exe 
+
+![Download InjectProc.exe](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/1e4e8b7b021f60d8a74afc5e0508f43b4ee7cd9d/images/Download%20InjectProc.JPG)
+---
+C:\Users\fazleh\Downloads\DLLInjection\hello-world-x64.dll ![Download hello-world-x64.dll](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/1e4e8b7b021f60d8a74afc5e0508f43b4ee7cd9d/images/Download%20Hellow%20world%20ddl.JPG)
+
+---
+C:\Users\fazleh\Downloads\DLLInjection\
+![Dowload File](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/1e4e8b7b021f60d8a74afc5e0508f43b4ee7cd9d/images/Download%20Hello%20world%20ddl.JPG)
+
+
+### 3. Wazuh Agent Configuration
+
+The Wazuh agent was installed on the Windows endpoint and successfully connected to the Wazuh manager.
+![Wazuh agent installation from manager](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/1e4e8b7b021f60d8a74afc5e0508f43b4ee7cd9d/images/Wazuh%20agent%20deploy%20process.jpeg) 
+
+---
+![Wazuh agent installation endpoint](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/1e4e8b7b021f60d8a74afc5e0508f43b4ee7cd9d/images/Wazuh%20agent%20active%20endpoint.JPG)
+
+---
+![Wazuh agent installation check in manager](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/1e4e8b7b021f60d8a74afc5e0508f43b4ee7cd9d/images/Wazuh%20agent%20active.JPG)
+
+
+
