@@ -44,9 +44,9 @@ This section describes the step-by-step setup of the lab environment used to sim
 
 The required Visual C++ runtime was installed on the Windows endpoint to ensure proper execution of InjectProc and related binaries.
 
-📸 Screenshot:
-`images/setup/01-vcredist-installed.png`
-
+![Download Visual C++](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/main/images/Download%20MS%20Visual%20C++.JPG?raw=true)
+---
+![images/Install MS Visual C++.JPG](https://github.com/rabbi13/DLL-injection-attack-detection-using-Wazuh.-/blob/2f553f616d48ac5c3a320b0bf6c328922577eed6/images/Install%20MS%20Visual%20C%2B%2B.JPG)
 ---
 
 ### 2. Downloading InjectProc Tool
