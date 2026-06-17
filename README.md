@@ -34,5 +34,24 @@ Before performing the attack simulation, the following components were installed
 * Wazuh Agent
 * Wazuh Manager 4.5.4
 
-Screenshots for each step are provided throughout this document.
+## Installation & Configuration
+
+This section describes the step-by-step setup of the lab environment used to simulate and detect DLL Injection attacks.
+
+---
+
+### 1. Microsoft Visual C++ Redistributable
+
+The required Visual C++ runtime was installed on the Windows endpoint to ensure proper execution of InjectProc and related binaries.
+
+📸 Screenshot:
+`images/setup/01-vcredist-installed.png`
+
+---
+
+### 2. Downloading InjectProc Tool
+
+The InjectProc tool and payload (`hello-world-x64.dll`) were downloaded and placed in a dedicated working directory.
+
+📁 Directory structure:
 
